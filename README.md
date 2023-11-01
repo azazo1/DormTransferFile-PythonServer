@@ -1,0 +1,4 @@
+# TransferFileConnectingServer
+
+一个临时的用于建立客户端之间找到各自 IP 地址, 以便点对点连接的服务器
+该项目应与以 DormTransferFile Java项目的客户端为代表的项目搭配使用
